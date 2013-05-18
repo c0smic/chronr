@@ -1,7 +1,6 @@
 set :application, "chronr"
 set :scm, "git"
 set :repository,  "git@github.com:c0smic/chronr.git"
-set :scm_passphrase, ""
 set :user, "c0smic"
 
 # set :scm, :git # You can set :scm explicitly or Capistrano will make an intelligent guess based on known version control directory names
